@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1233"/>
+      <stop offset="100%" stop-color="#0f0a1f"/>
+    </linearGradient>
+    <linearGradient id="code" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9b5cff"/>
+      <stop offset="100%" stop-color="#00e3ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#g1)"/>
+  <rect x="80" y="80" width="640" height="360" rx="14" fill="#0b0717" stroke="#2a204a"/>
+  <g font-family="JetBrains Mono, monospace" font-size="18" fill="url(#code)">
+    <text x="110" y="130">&lt;html&gt;</text>
+    <text x="140" y="160"> &lt;body class="dev"&gt;</text>
+    <text x="170" y="190">  &lt;h1&gt;Lucas Cavalcante&lt;/h1&gt;</text>
+    <text x="170" y="220">  &lt;p&gt;HTML • CSS • JS&lt;/p&gt;</text>
+    <text x="140" y="250"> &lt;/body&gt;</text>
+    <text x="110" y="280">&lt;/html&gt;</text>
+  </g>
+  <circle cx="680" cy="120" r="8" fill="#9b5cff"/>
+  <circle cx="700" cy="120" r="8" fill="#00e3ff"/>
+  <circle cx="720" cy="120" r="8" fill="#ff5cf7"/>
+</svg>
